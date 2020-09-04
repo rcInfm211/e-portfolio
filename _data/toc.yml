@@ -1,22 +1,21 @@
-- title: "Getting Started"
-  url: "docs/getting-started"
+- title: "Introduction"
+  url: "docs/introduction"
+- title: "Competencies"
+  url: "docs/competencies"
   children:
-    - title: Features
-      url: "docs/getting-started#getting-started"
-    - title: Development
-      url: "docs/getting-started#development"
-    - title: Customization
-      url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
-  children:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Discussion Forum
-      url: "forum"
-    - title: Interactive Code
-      url: "docs/extras/interactive"
-- title: "About"
-  url: "about"
-- title: "News"
-  url: "news"
+    - title: "Competency A"
+      url: "docs/competencies/a"
+    - title: "Competency B"
+      url: "docs/competencies/b"
+    - title: "Competency C"
+      url: "docs/competencies/c"
+    - title: "Competency D"
+      url: "docs/competencies/d"
+    - title: "Competency E"
+      url: "docs/competencies/e"
+    - title: "Competency F"
+      url: "docs/competencies/f"
+- title: "Conclusion"
+  url: "docs/conclusion"
+- title: "Affirmation"
+  url: "docs/affirmation"
